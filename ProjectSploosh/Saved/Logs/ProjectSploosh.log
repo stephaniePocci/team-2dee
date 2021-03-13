@@ -1087,3 +1087,19 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.13-22.55.01:479][469]AssetCheck: New page: Asset Save: multiple assets
 [2021.03.13-22.55.01:479][469]LogContentValidation: Display: Validating WidgetBlueprint /Game/Karni/UI/MainMenu.MainMenu
 [2021.03.13-22.55.01:480][469]LogContentValidation: Display: Validating WidgetBlueprint /Game/Karni/UI/Options.Options
+[2021.03.13-22.58.49:034][911]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Karni/UI/MainMenu.MainMenu
+[2021.03.13-23.00.49:603][ 75]LogSlate: Took 0.014791 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.03.13-23.03.31:970][515]LogEditorTransaction: Undo Wrap Widgets
+[2021.03.13-23.04.24:061][668]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.03.13-23.05.00:900][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.03.13-23.05.00:902][189]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Karni/Levels/MainMenu' took 0.034
+[2021.03.13-23.05.00:904][189]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Karni/UI/MainMenu] ([2] browsable assets)...
+[2021.03.13-23.05.00:904][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/Karni/UI/MainMenu]
+[2021.03.13-23.05.00:918][189]LogSavePackage: Moving '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/MainMenu_Auto14497FB064D29C7D12F1F43AADF675301.tmp' to '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Autosaves/Game/Karni/UI/MainMenu_Auto1.uasset'
+[2021.03.13-23.05.00:918][189]LogFileHelpers: Auto-saving content packages took 0.016
+[2021.03.13-23.15.01:113][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.03.13-23.15.01:115][531]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Karni/Levels/MainMenu' took 0.023
+[2021.03.13-23.15.01:115][531]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Karni/UI/MainMenu] ([2] browsable assets)...
+[2021.03.13-23.15.01:115][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/Karni/UI/MainMenu]
+[2021.03.13-23.15.01:130][531]LogSavePackage: Moving '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/MainMenu_Auto2EE2C92A542E8EB804A44688CCE5AD7DC.tmp' to '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Autosaves/Game/Karni/UI/MainMenu_Auto2.uasset'
+[2021.03.13-23.15.01:130][531]LogFileHelpers: Auto-saving content packages took 0.016
