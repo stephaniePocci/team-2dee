@@ -922,3 +922,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.13-21.51.36:201][352]AssetCheck: New page: Asset Save: multiple assets
 [2021.03.13-21.51.36:201][352]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
 [2021.03.13-21.51.36:201][352]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.03.13-21.52.50:756][126]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Characters/MoveRight.MoveRight
+[2021.03.13-22.01.36:273][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.03.13-22.01.36:274][897]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.009
+[2021.03.13-22.01.36:275][897]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Submarine] ([1] browsable assets)...
+[2021.03.13-22.01.36:278][897]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Submarine.Submarine]
+[2021.03.13-22.01.36:278][897]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Submarine]
+[2021.03.13-22.01.36:286][897]LogSavePackage: Moving '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Submarine_Auto2023D837140B51C61583C8FADEFB66330.tmp' to '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Autosaves/Game/Characters/Submarine_Auto2.uasset'
+[2021.03.13-22.01.36:287][897]LogFileHelpers: Auto-saving content packages took 0.012
+[2021.03.13-22.04.14:404][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.03.13-22.04.22:906][953]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.13-22.04.33:273][709]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Darren\Downloads\Submarine_Full_Sheet.png)
+[2021.03.13-22.04.33:283][709]LogTexture: Display: Building textures: Submarine_Full_Sheet (BGRA8, 441X779)
