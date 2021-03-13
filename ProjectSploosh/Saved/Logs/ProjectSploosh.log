@@ -801,3 +801,124 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.13-20.38.21:300][768]AssetCheck: New page: Asset Save: multiple assets
 [2021.03.13-20.38.21:300][768]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
 [2021.03.13-20.38.21:300][768]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.03.13-20.57.43:615][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.03.13-20.57.43:632][896]LogSavePackage: Moving '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Saved/2DSideScrollerExampleMapAF034D0B4E9667F5A728F1AD1E5F8993.tmp' to '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2021.03.13-20.57.43:653][896]LogSavePackage: Moving '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Saved/2DSideScrollerExampleMap_BuiltDaB35ED9304D4AEFBAED303CB9D0426D7C.tmp' to '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2021.03.13-20.57.43:673][896]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.13-20.57.43:673][896]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2021.03.13-20.57.43:673][896]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.03.13-21.41.44:627][288]Cmd: DELETE
+[2021.03.13-21.41.44:642][288]Cmd: ACTOR DELETE
+[2021.03.13-21.41.44:812][288]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.03.13-21.41.44:837][288]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.03.13-21.41.44:837][288]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.03.13-21.41.44:838][288]LogEditorActor: Deleted Actor: TextRenderActor
+[2021.03.13-21.41.44:839][288]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.03.13-21.41.44:839][288]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.03.13-21.41.44:840][288]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.03.13-21.41.44:840][288]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.03.13-21.41.44:841][288]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.03.13-21.41.44:841][288]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.03.13-21.41.44:842][288]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.03.13-21.41.44:843][288]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.03.13-21.41.44:843][288]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.03.13-21.41.44:844][288]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.03.13-21.41.44:844][288]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.03.13-21.41.44:844][288]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.03.13-21.41.44:845][288]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.03.13-21.41.44:860][288]LogEditorActor: Deleted Actor: PostProcessVolume
+[2021.03.13-21.41.44:872][288]LogEditorActor: Deleted Actor: 2DSideScrollerCharacter_C
+[2021.03.13-21.41.44:893][288]LogEditorActor: Deleted Actor: PlayerStart
+[2021.03.13-21.41.44:912][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.03.13-21.41.44:915][288]LogEditorActor: Deleted 20 Actors (0.209 secs)
+[2021.03.13-21.41.47:984][647]Cmd: DELETE
+[2021.03.13-21.41.47:984][647]Cmd: ACTOR DELETE
+[2021.03.13-21.41.47:991][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.03.13-21.41.47:993][647]LogEditorActor: Deleted 0 Actors (0.009 secs)
+[2021.03.13-21.42.06:631][822]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.03.13-21.42.06:654][822]LogContentBrowser: Creating deferred item: NewFolder
+[2021.03.13-21.42.10:991][343]LogContentBrowser: Attempting asset rename: NewFolder -> Characters
+[2021.03.13-21.42.10:992][343]LogContentBrowser: End creating deferred item NewFolder
+[2021.03.13-21.42.18:651][203]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.03.13-21.42.18:671][203]LogContentBrowser: Creating deferred item: NewFolder
+[2021.03.13-21.42.35:645][239]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2021.03.13-21.42.35:645][239]LogContentBrowser: End creating deferred item NewFolder
+[2021.03.13-21.42.43:478][ 95]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.03.13-21.42.43:489][ 95]LogContentBrowser: Creating deferred item: NewFolder
+[2021.03.13-21.42.45:268][309]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2021.03.13-21.42.45:269][309]LogContentBrowser: End creating deferred item NewFolder
+[2021.03.13-21.43.10:593][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.03.13-21.43.10:604][780]LogSavePackage: Moving '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Saved/2DSideScrollerExampleMap_Auto178838E734A6DAD538DFBA99616B6E01D.tmp' to '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto1.umap'
+[2021.03.13-21.43.10:611][780]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.030
+[2021.03.13-21.43.10:611][780]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2021.03.13-21.43.29:210][992]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Darren\Downloads\Submarine.png)
+[2021.03.13-21.43.29:218][992]LogTexture: Display: Building textures: Submarine (BGRA8, 409X81)
+[2021.03.13-21.43.32:344][128]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Characters/Submarine.Submarine
+[2021.03.13-21.43.32:455][128]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2021.03.13-21.43.38:717][731]LogSlate: Window 'Submarine' being destroyed
+[2021.03.13-21.43.48:711][752]LogSlate: Took 0.000457 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.13-21.43.55:458][491]LogSlate: Window 'Extract sprites' being destroyed
+[2021.03.13-21.44.32:989][736]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2021.03.13-21.44.32:990][736]LogContentBrowser: Deferred new asset file creation: Submarine1
+[2021.03.13-21.44.33:007][736]LogContentBrowser: Creating deferred item: Submarine1
+[2021.03.13-21.44.45:929][277]LogContentBrowser: Attempting asset rename: Submarine1 -> MoveFloat
+[2021.03.13-21.44.45:930][277]LogContentBrowser: End creating deferred item Submarine1
+[2021.03.13-21.44.47:541][456]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Characters/MoveFloat.MoveFloat
+[2021.03.13-21.44.47:748][457]LogRenderer: Reallocating scene render targets to support 1528x788 Format 10 NumSamples 1 (Frame:1).
+[2021.03.13-21.45.47:917][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/MoveFloat" FILE="../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Content/Characters/MoveFloat.uasset" SILENT=true
+[2021.03.13-21.45.47:937][556]LogSavePackage: Moving '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Saved/MoveFloatC54FA22B4A19D27BA7C972AAF53DBFB3.tmp' to '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Content/Characters/MoveFloat.uasset'
+[2021.03.13-21.45.47:959][556]AssetCheck: New page: Asset Save: MoveFloat
+[2021.03.13-21.45.47:959][556]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/MoveFloat.MoveFloat
+[2021.03.13-21.46.47:373][338]LogContentBrowser: Attempting asset rename: MoveFloat -> MoveLeft
+[2021.03.13-21.46.47:507][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/MoveLeft" FILE="../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Content/Characters/MoveLeft.uasset" SILENT=true
+[2021.03.13-21.46.47:517][338]LogSavePackage: Moving '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Saved/MoveLeftFC8FBE4342BFF9D4530CE2B2663E772F.tmp' to '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Content/Characters/MoveLeft.uasset'
+[2021.03.13-21.46.47:635][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.03.13-21.46.47:650][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.03.13-21.46.47:657][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.03.13-21.46.47:707][338]AssetCheck: New page: Asset Save: MoveLeft
+[2021.03.13-21.46.47:707][338]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/MoveLeft.MoveLeft
+[2021.03.13-21.46.58:942][524]LogContentBrowser: Attempting asset rename: MoveLeft_2 -> MoveRight
+[2021.03.13-21.46.58:998][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/MoveRight" FILE="../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Content/Characters/MoveRight.uasset" SILENT=true
+[2021.03.13-21.46.59:006][524]LogSavePackage: Moving '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Saved/MoveRightBC13B87348F1F046E05C8EA783D01196.tmp' to '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Content/Characters/MoveRight.uasset'
+[2021.03.13-21.46.59:079][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.03.13-21.46.59:098][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.03.13-21.46.59:104][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.03.13-21.46.59:126][524]AssetCheck: New page: Asset Save: MoveRight
+[2021.03.13-21.46.59:126][524]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/MoveRight.MoveRight
+[2021.03.13-21.47.00:761][712]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Characters/MoveRight.MoveRight
+[2021.03.13-21.47.35:876][774]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Characters/Submarine_Sprite_0.Submarine_Sprite_0
+[2021.03.13-21.47.36:189][775]LogRenderer: Reallocating scene render targets to support 1528x916 Format 10 NumSamples 1 (Frame:1).
+[2021.03.13-21.47.44:332][744]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-21.47.44:332][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-21.47.49:595][349]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-21.47.49:595][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-21.47.55:763][ 22]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Characters/Submarine_Sprite_5.Submarine_Sprite_5
+[2021.03.13-21.49.41:529][341]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.13-21.50.39:342][180]Cmd: TRANSACTION UNDO
+[2021.03.13-21.50.39:342][180]LogEditorTransaction: Undo Modification in Viewport
+[2021.03.13-21.50.57:149][ 24]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-21.50.57:149][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-21.51.08:708][317]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Characters/Submarine_Sprite_3.Submarine_Sprite_3
+[2021.03.13-21.51.24:873][181]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-21.51.24:873][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-21.51.32:558][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.03.13-21.51.33:558][ 71]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.13-21.51.33:619][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.03.13-21.51.35:538][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.03.13-21.51.35:555][297]LogSavePackage: Moving '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Saved/2DSideScrollerExampleMap69278A904941A57B082BC5932F0B0DD6.tmp' to '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2021.03.13-21.51.35:572][297]LogSavePackage: Moving '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Saved/2DSideScrollerExampleMap_BuiltDaACFBCE6A4C5ADCF6D2DDB793801A7262.tmp' to '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2021.03.13-21.51.35:586][297]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.13-21.51.35:586][297]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2021.03.13-21.51.35:586][297]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.03.13-21.51.36:017][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.03.13-21.51.36:028][344]LogSavePackage: Moving '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Saved/2DSideScrollerExampleMap13AE1F6E4F56FE0ABA0B8EB43826BAC2.tmp' to '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2021.03.13-21.51.36:047][344]LogSavePackage: Moving '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Saved/2DSideScrollerExampleMap_BuiltDa0D765CAF404C87E3BEA29486C6646C08.tmp' to '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2021.03.13-21.51.36:057][344]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.13-21.51.36:057][344]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2021.03.13-21.51.36:057][344]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.03.13-21.51.36:152][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.03.13-21.51.36:168][352]LogSavePackage: Moving '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Saved/2DSideScrollerExampleMapFB771DD84C13A7AB37A455905FC302C7.tmp' to '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2021.03.13-21.51.36:190][352]LogSavePackage: Moving '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Saved/2DSideScrollerExampleMap_BuiltDa921CE3CD461DD8F57471E78D48CF3EB6.tmp' to '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2021.03.13-21.51.36:201][352]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.13-21.51.36:201][352]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2021.03.13-21.51.36:201][352]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
