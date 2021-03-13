@@ -1103,3 +1103,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.13-23.15.01:115][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/Karni/UI/MainMenu]
 [2021.03.13-23.15.01:130][531]LogSavePackage: Moving '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/MainMenu_Auto2EE2C92A542E8EB804A44688CCE5AD7DC.tmp' to '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Autosaves/Game/Karni/UI/MainMenu_Auto2.uasset'
 [2021.03.13-23.15.01:130][531]LogFileHelpers: Auto-saving content packages took 0.016
+[2021.03.13-23.25.01:796][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.03.13-23.25.01:798][925]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Karni/Levels/MainMenu' took 0.035
+[2021.03.13-23.25.01:799][925]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Karni/UI/MainMenu] ([2] browsable assets)...
+[2021.03.13-23.25.01:799][925]OBJ SavePackage: Finished generating thumbnails for package [/Game/Karni/UI/MainMenu]
+[2021.03.13-23.25.01:827][925]LogSavePackage: Moving '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/MainMenu_Auto3479A922E43DF2FB7FB8A9996D774323B.tmp' to '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Autosaves/Game/Karni/UI/MainMenu_Auto3.uasset'
+[2021.03.13-23.25.01:828][925]LogFileHelpers: Auto-saving content packages took 0.031
