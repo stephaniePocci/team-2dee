@@ -934,3 +934,109 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.13-22.04.22:906][953]LogSlate: Window 'Delete Assets' being destroyed
 [2021.03.13-22.04.33:273][709]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Darren\Downloads\Submarine_Full_Sheet.png)
 [2021.03.13-22.04.33:283][709]LogTexture: Display: Building textures: Submarine_Full_Sheet (BGRA8, 441X779)
+[2021.03.13-22.06.19:213][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.03.13-22.06.23:485][315]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.13-22.06.36:429][690]LogSlate: Window 'Extract sprites' being destroyed
+[2021.03.13-22.06.53:997][631]LogContentBrowser: Attempting asset rename: MoveLeft -> OldMoveLeft
+[2021.03.13-22.06.54:048][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/OldMoveLeft" FILE="../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Content/Characters/OldMoveLeft.uasset" SILENT=true
+[2021.03.13-22.06.54:056][631]LogSavePackage: Moving '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Saved/OldMoveLeft0875492A4617381E2E71F58565C7C631.tmp' to '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Content/Characters/OldMoveLeft.uasset'
+[2021.03.13-22.06.54:129][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.03.13-22.06.54:141][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.03.13-22.06.54:147][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.03.13-22.06.54:167][631]AssetCheck: New page: Asset Save: OldMoveLeft
+[2021.03.13-22.06.54:167][631]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/OldMoveLeft.OldMoveLeft
+[2021.03.13-22.07.01:386][419]LogContentBrowser: Attempting asset rename: MoveRight -> OldMoveRight
+[2021.03.13-22.07.01:428][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/OldMoveRight" FILE="../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Content/Characters/OldMoveRight.uasset" SILENT=true
+[2021.03.13-22.07.01:436][419]LogSavePackage: Moving '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Saved/OldMoveRight9D6074084F802495DDA5E196969E8564.tmp' to '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Content/Characters/OldMoveRight.uasset'
+[2021.03.13-22.07.01:477][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.03.13-22.07.01:487][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.03.13-22.07.01:492][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.03.13-22.07.01:511][419]AssetCheck: New page: Asset Save: OldMoveRight
+[2021.03.13-22.07.01:511][419]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/OldMoveRight.OldMoveRight
+[2021.03.13-22.07.06:024][909]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Characters/Submarine_Full_Sheet_Sprite_0.Submarine_Full_Sheet_Sprite_0
+[2021.03.13-22.07.10:510][397]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Characters/Submarine_Full_Sheet_Sprite_3.Submarine_Full_Sheet_Sprite_3
+[2021.03.13-22.07.15:893][974]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Characters/Submarine_Full_Sheet_Sprite_6.Submarine_Full_Sheet_Sprite_6
+[2021.03.13-22.07.23:206][736]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2021.03.13-22.07.23:206][736]LogContentBrowser: Deferred new asset file creation: Submarine_Full_Sheet1
+[2021.03.13-22.07.23:225][736]LogContentBrowser: Creating deferred item: Submarine_Full_Sheet1
+[2021.03.13-22.07.32:977][887]LogContentBrowser: Attempting asset rename: Submarine_Full_Sheet1 -> MoveLeftNoDmg
+[2021.03.13-22.07.32:977][887]LogContentBrowser: End creating deferred item Submarine_Full_Sheet1
+[2021.03.13-22.07.34:628][ 71]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Characters/MoveLeftNoDmg.MoveLeftNoDmg
+[2021.03.13-22.07.41:099][801]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-22.07.41:099][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-22.07.41:833][882]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-22.07.41:833][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-22.07.42:665][974]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-22.07.42:665][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-22.07.43:290][ 42]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-22.07.43:290][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-22.07.44:446][175]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-22.07.44:446][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-22.07.45:129][252]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-22.07.45:129][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-22.07.56:189][494]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2021.03.13-22.07.56:189][494]LogContentBrowser: Deferred new asset file creation: Submarine_Full_Sheet1
+[2021.03.13-22.07.56:210][494]LogContentBrowser: Creating deferred item: Submarine_Full_Sheet1
+[2021.03.13-22.08.03:889][408]LogContentBrowser: Attempting asset rename: Submarine_Full_Sheet1 -> MoveLeft1Dmg
+[2021.03.13-22.08.03:890][408]LogContentBrowser: End creating deferred item Submarine_Full_Sheet1
+[2021.03.13-22.08.07:392][796]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Characters/MoveLeft1Dmg.MoveLeft1Dmg
+[2021.03.13-22.08.12:463][247]LogSlate: Window 'MoveLeft1Dmg' being destroyed
+[2021.03.13-22.08.14:227][431]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Characters/MoveLeftNoDmg.MoveLeftNoDmg
+[2021.03.13-22.08.30:458][238]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2021.03.13-22.08.30:458][238]LogContentBrowser: Deferred new asset file creation: Submarine_Full_Sheet1
+[2021.03.13-22.08.30:479][238]LogContentBrowser: Creating deferred item: Submarine_Full_Sheet1
+[2021.03.13-22.08.34:276][689]LogContentBrowser: Attempting asset rename: Submarine_Full_Sheet1 -> MoveLeft2Dmg
+[2021.03.13-22.08.34:276][689]LogContentBrowser: End creating deferred item Submarine_Full_Sheet1
+[2021.03.13-22.08.36:527][937]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Characters/MoveLeft2Dmg.MoveLeft2Dmg
+[2021.03.13-22.08.55:306][ 52]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2021.03.13-22.08.55:306][ 52]LogContentBrowser: Deferred new asset file creation: Submarine_Full_Sheet1
+[2021.03.13-22.08.55:326][ 52]LogContentBrowser: Creating deferred item: Submarine_Full_Sheet1
+[2021.03.13-22.08.59:816][586]LogContentBrowser: Attempting asset rename: Submarine_Full_Sheet1 -> MoveLeft3Dmg
+[2021.03.13-22.08.59:816][586]LogContentBrowser: End creating deferred item Submarine_Full_Sheet1
+[2021.03.13-22.09.04:845][172]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Characters/MoveLeft3Dmg.MoveLeft3Dmg
+[2021.03.13-22.11.09:675][684]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Characters/Submarine_Full_Sheet_Sprite_12.Submarine_Full_Sheet_Sprite_12
+[2021.03.13-22.11.21:174][912]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2021.03.13-22.11.21:174][912]LogContentBrowser: Deferred new asset file creation: Submarine_Full_Sheet1
+[2021.03.13-22.11.21:195][912]LogContentBrowser: Creating deferred item: Submarine_Full_Sheet1
+[2021.03.13-22.11.28:778][792]LogContentBrowser: Attempting asset rename: Submarine_Full_Sheet1 -> MoveRightNoDmg
+[2021.03.13-22.11.28:779][792]LogContentBrowser: End creating deferred item Submarine_Full_Sheet1
+[2021.03.13-22.11.31:047][ 52]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Characters/MoveRightNoDmg.MoveRightNoDmg
+[2021.03.13-22.11.37:855][790]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-22.11.37:856][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-22.11.51:556][244]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2021.03.13-22.11.51:556][244]LogContentBrowser: Deferred new asset file creation: Submarine_Full_Sheet1
+[2021.03.13-22.11.51:576][244]LogContentBrowser: Creating deferred item: Submarine_Full_Sheet1
+[2021.03.13-22.12.01:897][458]LogContentBrowser: Attempting asset rename: Submarine_Full_Sheet1 -> MoveRight1Dmg
+[2021.03.13-22.12.01:898][458]LogContentBrowser: End creating deferred item Submarine_Full_Sheet1
+[2021.03.13-22.12.03:574][651]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Characters/MoveRight1Dmg.MoveRight1Dmg
+[2021.03.13-22.14.35:707][150]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2021.03.13-22.14.35:707][150]LogContentBrowser: Deferred new asset file creation: Submarine_Full_Sheet1
+[2021.03.13-22.14.35:732][150]LogContentBrowser: Creating deferred item: Submarine_Full_Sheet1
+[2021.03.13-22.14.42:394][929]LogContentBrowser: Attempting asset rename: Submarine_Full_Sheet1 -> MoveRight2Dmg
+[2021.03.13-22.14.42:395][929]LogContentBrowser: End creating deferred item Submarine_Full_Sheet1
+[2021.03.13-22.14.48:789][635]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2021.03.13-22.14.48:789][635]LogContentBrowser: Deferred new asset file creation: Submarine_Full_Sheet1
+[2021.03.13-22.14.48:809][635]LogContentBrowser: Creating deferred item: Submarine_Full_Sheet1
+[2021.03.13-22.14.54:045][250]LogContentBrowser: Attempting asset rename: Submarine_Full_Sheet1 -> MoveRight3Dmg
+[2021.03.13-22.14.54:045][250]LogContentBrowser: End creating deferred item Submarine_Full_Sheet1
+[2021.03.13-22.14.58:574][765]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Characters/MoveRight2Dmg.MoveRight2Dmg
+[2021.03.13-22.16.20:155][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.03.13-22.16.20:157][460]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.013
+[2021.03.13-22.16.20:157][460]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Submarine_Full_Sheet] ([1] browsable assets)...
+[2021.03.13-22.16.20:162][460]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Submarine_Full_Sheet.Submarine_Full_Sheet]
+[2021.03.13-22.16.20:162][460]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Submarine_Full_Sheet]
+[2021.03.13-22.16.20:171][460]LogSavePackage: Moving '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Submarine_Full_Sheet_Auto318876612464E96578C5F74BB651B1C9B.tmp' to '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Autosaves/Game/Characters/Submarine_Full_Sheet_Auto3.uasset'
+[2021.03.13-22.16.20:171][460]LogFileHelpers: Auto-saving content packages took 0.014
+[2021.03.13-22.16.54:341][509]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Characters/MoveRight3Dmg.MoveRight3Dmg
+[2021.03.13-22.17.48:166][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.03.13-22.17.48:183][721]LogSavePackage: Moving '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Saved/2DSideScrollerExampleMapA4BEDEAE45199C30E6EBBF9464E8F292.tmp' to '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2021.03.13-22.17.48:206][721]LogSavePackage: Moving '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Saved/2DSideScrollerExampleMap_BuiltDa30E6273547AAC7A99A3454B12C3AC5CD.tmp' to '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2021.03.13-22.17.48:215][721]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.13-22.17.48:215][721]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2021.03.13-22.17.48:215][721]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.03.13-22.17.48:350][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.03.13-22.17.48:360][733]LogSavePackage: Moving '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Saved/2DSideScrollerExampleMapA150835341BDAAA4A62C5CBA9B43DDE6.tmp' to '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2021.03.13-22.17.48:382][733]LogSavePackage: Moving '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Saved/2DSideScrollerExampleMap_BuiltDa21FC701B4FB90BC21A05E2951BEAD0B4.tmp' to '../../../../../../Users/Darren/Documents/GitHub/team-2dee/ProjectSploosh/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2021.03.13-22.17.48:392][733]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.13-22.17.48:392][733]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2021.03.13-22.17.48:392][733]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
