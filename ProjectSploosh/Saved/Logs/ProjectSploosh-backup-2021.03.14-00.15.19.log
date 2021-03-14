@@ -1,0 +1,1351 @@
+﻿Log file open, 03/13/21 14:44:26
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: ProjectSploosh
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.344707
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.13-22.44.27:408][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.13-22.44.27:408][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.13-22.44.27:408][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Config/Windows/Engine.ini]
+[2021.03.13-22.44.27:408][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.13-22.44.27:408][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2021.03.13-22.44.27:408][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Config/Windows/Engine.ini]
+[2021.03.13-22.44.27:408][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Config/Windows/Engine.ini]
+[2021.03.13-22.44.27:408][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.13-22.44.27:408][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.13-22.44.27:408][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.13-22.44.27:408][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.13-22.44.27:408][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.13-22.44.27:408][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.13-22.44.27:408][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.13-22.44.27:408][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.13-22.44.27:408][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.13-22.44.27:408][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.13-22.44.27:408][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.13-22.44.27:408][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.13-22.44.27:408][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.13-22.44.27:408][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.13-22.44.27:408][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Config/Windows/Engine.ini]
+[2021.03.13-22.44.27:408][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.13-22.44.27:408][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.13-22.44.27:408][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.13-22.44.27:408][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.13-22.44.27:408][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.13-22.44.27:408][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.13-22.44.27:408][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.13-22.44.27:408][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.13-22.44.27:409][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.13-22.44.27:409][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.13-22.44.27:409][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.13-22.44.27:409][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.13-22.44.27:409][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.13-22.44.27:409][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.03.13-22.44.27:409][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Config/Windows/Engine.ini]
+[2021.03.13-22.44.27:409][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Config/Windows/Engine.ini]
+[2021.03.13-22.44.27:422][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.13-22.44.27:422][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.13-22.44.27:423][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.13-22.44.27:423][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.13-22.44.27:423][  0]LogHAL: Display: Platform has ~ 8 GB [8354648064 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.13-22.44.27:423][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.13-22.44.27:423][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.13-22.44.27:423][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.13-22.44.27:424][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.13-22.44.27:425][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.13-22.44.27:425][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.13-22.44.27:425][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.13-22.44.27:425][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Config/Windows/Engine.ini]
+[2021.03.13-22.44.27:425][  0]LogInit: Computer: KARNIVELUMANI
+[2021.03.13-22.44.27:425][  0]LogInit: User: karni
+[2021.03.13-22.44.27:425][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.03.13-22.44.27:425][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.13-22.44.27:425][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2021.03.13-22.44.27:425][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.13-22.44.27:425][  0]LogMemory: Process Physical Memory: 139.29 MB used, 139.30 MB peak
+[2021.03.13-22.44.27:425][  0]LogMemory: Process Virtual Memory: 111.06 MB used, 111.06 MB peak
+[2021.03.13-22.44.27:425][  0]LogMemory: Physical Memory: 7037.61 MB used,  930.00 MB free, 7967.61 MB total
+[2021.03.13-22.44.27:425][  0]LogMemory: Virtual Memory: 134213456.00 MB used,  4272.34 MB free, 134217728.00 MB total
+[2021.03.13-22.44.27:431][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.13-22.44.27:483][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.13-22.44.27:484][  0]LogInit: Using OS detected language (en-US).
+[2021.03.13-22.44.27:484][  0]LogInit: Using OS detected locale (en-US).
+[2021.03.13-22.44.27:495][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.03.13-22.44.27:812][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.13-22.44.27:827][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.13-22.44.27:869][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.13-22.44.27:869][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.13-22.44.28:169][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.13-22.44.28:169][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.13-22.44.28:170][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.13-22.44.28:170][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.13-22.44.28:220][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2021.03.13-22.44.28:220][  0]LogD3D11RHI:       128/0/3983 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2021.03.13-22.44.28:227][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.13-22.44.28:227][  0]LogD3D11RHI:       0/0/3983 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.13-22.44.28:227][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.13-22.44.28:234][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.13-22.44.28:234][  0]LogD3D11RHI:     GPU DeviceId: 0x3ea0 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.13-22.44.28:234][  0]LogWindows: EnumDisplayDevices:
+[2021.03.13-22.44.28:234][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2021.03.13-22.44.28:234][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2021.03.13-22.44.28:234][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2021.03.13-22.44.28:235][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2021.03.13-22.44.28:235][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2021.03.13-22.44.28:235][  0]LogD3D11RHI:   Driver Version: 26.20.100.8141 (internal:26.20.100.8141, unified:26.20.100.8141)
+[2021.03.13-22.44.28:235][  0]LogD3D11RHI:      Driver Date: 4-11-2020
+[2021.03.13-22.44.28:235][  0]LogRHI: Texture pool is 1483 MB (70% of 2119 MB)
+[2021.03.13-22.44.28:339][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2021.03.13-22.44.28:350][  0]LogD3D11RHI: Intel Extensions support version Full=16777216, Major=1, Minor=0, Revision=0
+[2021.03.13-22.44.28:350][  0]LogD3D11RHI: Intel Extensions support version Full=16777217, Major=1, Minor=0, Revision=1
+[2021.03.13-22.44.28:350][  0]LogD3D11RHI: Intel Extensions Framework enabled
+[2021.03.13-22.44.28:351][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2021.03.13-22.44.28:351][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.13-22.44.28:351][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.13-22.44.28:368][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2021.03.13-22.44.28:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.13-22.44.28:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.13-22.44.28:814][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.13-22.44.28:814][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.13-22.44.28:814][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.13-22.44.28:814][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.13-22.44.28:814][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.13-22.44.28:814][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.13-22.44.28:814][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.13-22.44.28:814][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.13-22.44.28:814][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.13-22.44.28:838][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.13-22.44.28:838][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.13-22.44.28:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.13-22.44.28:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.13-22.44.28:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.13-22.44.28:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.13-22.44.28:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.13-22.44.28:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.13-22.44.28:913][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.13-22.44.28:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.13-22.44.28:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.13-22.44.28:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.03.13-22.44.28:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.03.13-22.44.28:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.03.13-22.44.28:977][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.03.13-22.44.28:992][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.13-22.44.28:992][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.13-22.44.29:003][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.13-22.44.29:013][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.13-22.44.29:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.13-22.44.29:033][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.13-22.44.29:033][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.13-22.44.29:049][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.13-22.44.29:145][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.03.13-22.44.29:145][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Intermediate/Shaders/WorkingDirectory/17112/).
+[2021.03.13-22.44.29:145][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/karni/AppData/Local/Temp/UnrealShaderWorkingDir/B22AE2C34D3773DDF337C89FE36C3DD1/'.
+[2021.03.13-22.44.29:147][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.13-22.44.29:147][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.13-22.44.30:093][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.13-22.44.30:232][  0]LogDerivedDataCache: Loaded boot cache 0.14s 78MB C:/Users/karni/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.13-22.44.30:232][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/karni/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.03.13-22.44.30:233][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.13-22.44.30:233][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.13-22.44.30:233][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.13-22.44.30:233][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.13-22.44.30:246][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.13-22.44.30:246][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.13-22.44.30:246][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.13-22.44.30:264][  0]LogDerivedDataCache: Speed tests for C:/Users/karni/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.03.13-22.44.30:264][  0]LogDerivedDataCache: Display: Performance to C:/Users/karni/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=133.29MBs, RandomWriteSpeed=89.19MBs. Assigned SpeedClass 'Local'
+[2021.03.13-22.44.30:265][  0]LogDerivedDataCache: Using Local data cache path C:/Users/karni/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.13-22.44.30:265][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.13-22.44.30:265][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.13-22.44.30:320][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.13-22.44.30:322][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.13-22.44.30:376][  0]LogAssetRegistry: FAssetRegistry took 0.0046 seconds to start up
+[2021.03.13-22.44.30:741][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.13-22.44.30:741][  0]LogInit: Active device profile: [00000280A709B800][00000280A6A14FC0 49] Windows
+[2021.03.13-22.44.30:741][  0]LogInit: Profiles: [00000280A709B800][00000280A6A14FC0 49] Windows, [00000280A704C900][00000280A6A1D140 49] WindowsNoEditor, [00000280A7098900][00000280A6A212C0 49] WindowsServer, [00000280A704F200][00000280A6A25440 49] WindowsClient, [00000280A709B000][00000280A6A19580 49] IOS, [00000280A704D200][00000280A6A296C0 49] iPadAir, [00000280A7098F00][00000280A6A2D800 49] iPadAir2, [00000280A700CF00][00000280A8C39A80 49] IPadPro, [00000280A700D000][00000280A8C31AC0 49] iPadAir3, [00000280A709AD00][00000280A8C3DC40 49] iPadAir4, [00000280A700FF00][00000280A8C40100 49] iPadMini2, [00000280A7099300][00000280A8C44280 49] iPadMini3, [00000280A700E300][00000280A8C48400 49] iPadMini4, [00000280A709BA00][00000280A8C4C580 49] iPadMini5, [00000280A704F400][00000280A8C54840 49] iPhone6, [00000280A704D100][00000280A8C50880 49] iPodTouch6, [00000280A700DF00][00000280A8C5CB40 49] iPhone7, [00000280A700CA00][00000280A8C58B80 49] iPodTouch7, [00000280A704FF00][00000280A8C60D00 49] iPhone5S, [00000280A700C700][00000280A8C64E80 49] iPhone6Plus, [00000280A704CE00][00000280A8C69000 49] iPhone6S, [00000280A700D300][00000280A8C6D180 49] iPhone6SPlus, [00000280A704DB00][00000280A8C71300 49] iPhone7Plus, [00000280A700E900][00000280A8C75480 49] iPhoneSE, [00000280A704F600][00000280A8C79600 49] iPhone8, [00000280A700F200][00000280A8C35740 49] iPhone8Plus, [00000280A704E800][00000280A8C7D880 49] iPhoneX, [00000280A700E000][00000280A8C819C0 49] iPhoneXS, [00000280A704FA00][00000280A8C89B40 49] iPhoneXSMax, [00000280A700FA00][00000280A8C8DCC0 49] iPhoneXR, [00000280A704F700][00000280A8C90180 49] iPhone11, [00000280A700C500][00000280A8C94300 49] iPhone11Pro, [00000280A704EA00][00000280A8C98480 49] iPhone11ProMax, [00000280A700F700][00000280A8C9C600 49] iPhoneSE2, [00000280A704FC00][00000280A8CA0780 49] iPhone12Mini, [00000280A700FE00][00000280A8CA4900 49] iPhone12, [00000280A704D300][00000280A8CA8A80 49] iPhone12Pro, [00000280A700D100][00000280A8CACC00 49] iPhone12ProMax, [00000280A704E400][00000280A8CB0D80 49] iPadPro105, [00000280A700CD00][00000280A8CB4F00 49] iPadPro129, [00000280A704F500][00000280A8CB9080 49] iPadPro97, [00000280A700C900][00000280A8CBD200 49] iPadPro2_129, [00000280A704ED00][00000280A8CC1380 49] iPad5, [00000280A700DB00][00000280A8CC5500 49] iPad6, [00000280A704DD00][00000280A8CC9680 49] iPad7, [00000280A700D900][00000280A8C857C0 49] iPad8, [00000280A704C800][00000280A8CCD900 49] iPadPro11, [00000280A700EF00][00000280A8CD1A40 49] iPadPro2_11, [00000280A704FD00][00000280A8CD5B80 49] iPadPro3_129, [00000280A700CC00][00000280A8CDDD00 49] iPadPro4_129, [00000280A704C300][00000280A8CE01C0 49] AppleTV, [00000280A700D400][00000280A8CE4340 49] AppleTV4K, [00000280A704E700][00000280A8CE84C0 49] TVOS, [00000280A700F300][00000280A8CEC640 49] Mac, [00000280A704F800][00000280A8CF07C0 49] MacClient, [00000280A700D600][00000280A8CF4940 49] MacNoEditor, [00000280A704CB00][00000280A8CF8AC0 49] MacServer, [00000280A700F100][00000280A8CFCC40 49] Linux, [00000280A704F000][00000280A8D00DC0 49] LinuxNoEditor, [00000280A70D4500][00000280A8D04F40 49] LinuxAArch64NoEditor, [00000280A709B300][00000280A8D090C0 49] LinuxClient, [00000280A70D5500][00000280A8D0D240 49] LinuxAArch64Client, [00000280A709A800][00000280A8D113C0 49] LinuxServer, [00000280A70D4100][00000280A8D15540 49] LinuxAArch64Server, [00000280A7099200][00000280A8D196C0 49] Android, [00000280A70D5400][00000280A8CD9800 49] Android_Low, [00000280A709A400][00000280A8D1D940 49] Android_Mid, [00000280A70D4800][00000280A8D21A80 49] Android_High, [00000280A709AC00][00000280A8D25BC0 49] Android_Default, [00000280A70D4C00][00000280A8D2DD40 49] Android_Adreno4xx, [00000280A709BD00][00000280A8D30200 49] Android_Adreno5xx_Low, [00000280A70D4200][00000280A8D34380 49] Android_Adreno5xx, [00000280A7098A00][00000280A8D38500 49] Android_Adreno6xx, [00000280A70D5100][00000280A8D3C680 49] Android_Adreno6xx_Vulkan, [00000280A709A000][00000280A8D40800 49] Android_Mali_T6xx, [00000280A704D800][00000280A8D44980 49] Android_Mali_T7xx, [00000280A700DA00][00000280A8D48B00 49] Android_Mali_T8xx, [00000280A704F300][00000280A8D4CC80 49] Android_Mali_G71, [00000280A700E400][00000280A8D50E00 49] Android_Mali_G72, [00000280A704D400][00000280A8D54F80 49] Android_Mali_G72_Vulkan, [00000280A700E500][00000280A8D59100 49] Android_Mali_G76, [00000280A704E900][00000280A8D5D280 49] Android_Mali_G76_Vulkan, [00000280A700DD00][00000280A8D61400 49] Android_Mali_G77, [00000280A704DC00][00000280A8D65580 49] Android_Mali_G77_Vulkan, [00000280A700ED00][00000280A8D69700 49] Android_Vulkan_SM5, [00000280A704FE00][00000280A8D6D880 49] Android_PowerVR_G6xxx, [00000280A700F600][00000280A8D299C0 49] Android_PowerVR_GT7xxx, [00000280A704C500][00000280A8D71B00 49] Android_PowerVR_GE8xxx, [00000280A700C400][00000280A8D75C40 49] Android_PowerVR_GM9xxx, [00000280A704E600][00000280A8D7C100 49] Android_PowerVR_GM9xxx_Vulkan, [00000280A700FB00][00000280A8D80280 49] Android_TegraK1, [00000280A704E300][00000280A8D84400 49] Android_Unknown_Vulkan, [00000280A700E100][00000280A8D88580 49] Lumin, [00000280A704EF00][00000280A8D8C700 49] Lumin_Desktop, [00000280A700E200][00000280A8D90880 49] HoloLens, 
+[2021.03.13-22.44.30:927][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.13-22.44.30:927][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.13-22.44.30:927][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.13-22.44.30:927][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.13-22.44.30:927][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.13-22.44.30:972][  0]LogNetVersion: ProjectSploosh 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2013573634)
+[2021.03.13-22.44.31:887][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.03.13-22.44.31:994][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.106544 seconds
+[2021.03.13-22.44.32:003][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.03.13-22.44.32:003][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.03.13-22.44.32:003][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.13-22.44.32:687][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.13-22.44.32:698][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.13-22.44.32:831][  0]SourceControl: Source control is disabled
+[2021.03.13-22.44.32:831][  0]SourceControl: Source control is disabled
+[2021.03.13-22.44.32:835][  0]SourceControl: Source control is disabled
+[2021.03.13-22.44.32:841][  0]SourceControl: Source control is disabled
+[2021.03.13-22.44.32:848][  0]SourceControl: Source control is disabled
+[2021.03.13-22.44.32:860][  0]LogUProjectInfo: Found projects:
+[2021.03.13-22.44.33:207][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.13-22.44.33:235][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.13-22.44.33:235][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.13-22.44.33:313][  0]LogCollectionManager: Loaded 0 collections in 0.001686 seconds
+[2021.03.13-22.44.33:353][  0]LogFileCache: Scanning file cache for directory 'C:/Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Collections/' took 0.00s
+[2021.03.13-22.44.33:353][  0]LogFileCache: Scanning file cache for directory 'C:/Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Developers/karni/Collections/' took 0.00s
+[2021.03.13-22.44.33:353][  0]LogFileCache: Scanning file cache for directory 'C:/Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Collections/' took 0.00s
+[2021.03.13-22.44.33:353][  0]LogOcInput: OculusInput pre-init called
+[2021.03.13-22.44.33:367][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.13-22.44.33:367][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.13-22.44.33:469][  0]LogEngine: Initializing Engine...
+[2021.03.13-22.44.33:472][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.13-22.44.33:472][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.13-22.44.33:475][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.03.13-22.44.33:613][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.13-22.44.33:641][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.13-22.44.33:790][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.03.13-22.44.33:796][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.03.13-22.44.33:796][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.03.13-22.44.33:796][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.13-22.44.33:796][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.13-22.44.33:796][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.13-22.44.33:796][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.13-22.44.33:796][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.13-22.44.33:796][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.13-22.44.33:796][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.13-22.44.33:796][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.13-22.44.33:797][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.13-22.44.33:797][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.13-22.44.33:817][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.13-22.44.33:817][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.13-22.44.33:913][  0]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.03.13-22.44.33:917][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.13-22.44.33:918][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.13-22.44.33:918][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.13-22.44.33:919][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.13-22.44.33:919][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.13-22.44.33:919][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.13-22.44.33:921][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.13-22.44.33:921][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.13-22.44.33:921][  0]LogInit: FAudioDevice initialized.
+[2021.03.13-22.44.33:921][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.03.13-22.44.33:921][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.13-22.44.33:982][  0]LogDerivedDataCache: Saved boot cache 0.06s 78MB C:/Users/karni/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.13-22.44.33:988][  0]LogInit: Texture streaming: Enabled
+[2021.03.13-22.44.34:004][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.03.13-22.44.34:010][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.13-22.44.34:010][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.13-22.44.34:014][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.13-22.44.34:074][  0]LogInit: Transaction tracking system initialized
+[2021.03.13-22.44.34:117][  0]BlueprintLog: New page: Editor Load
+[2021.03.13-22.44.34:248][  0]LocalizationService: Localization service is disabled
+[2021.03.13-22.44.34:295][  0]TimingProfiler: Initialize
+[2021.03.13-22.44.34:296][  0]TimingProfiler: OnSessionChanged
+[2021.03.13-22.44.34:296][  0]LoadingProfiler: Initialize
+[2021.03.13-22.44.34:296][  0]LoadingProfiler: OnSessionChanged
+[2021.03.13-22.44.34:296][  0]NetworkingProfiler: Initialize
+[2021.03.13-22.44.34:296][  0]NetworkingProfiler: OnSessionChanged
+[2021.03.13-22.44.34:297][  0]MemoryProfiler: Initialize
+[2021.03.13-22.44.34:297][  0]MemoryProfiler: OnSessionChanged
+[2021.03.13-22.44.34:504][  0]LogFileCache: Scanning file cache for directory 'C:/Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/' took 0.00s
+[2021.03.13-22.44.34:504][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.03.13-22.44.34:504][  0]LogCook: Display: Mobile HDR setting 0
+[2021.03.13-22.44.34:945][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.03.13-22.44.34:957][  0]SourceControl: Source control is disabled
+[2021.03.13-22.44.34:957][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.003
+[2021.03.13-22.44.34:959][  0]Cmd: MAP LOAD FILE="../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.13-22.44.34:960][  0]LightingResults: New page: Lighting Build
+[2021.03.13-22.44.34:964][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-22.44.34:964][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-22.44.34:965][  0]MapCheck: New page: Map Check
+[2021.03.13-22.44.34:965][  0]LightingResults: New page: Lighting Build
+[2021.03.13-22.44.34:987][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.03.13-22.44.35:085][  0]LogAudio: Display: Audio Device (ID: 1) registered with world '2DSideScrollerExampleMap'.
+[2021.03.13-22.44.35:087][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.03.13-22.44.35:088][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.13-22.44.35:098][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.03.13-22.44.35:101][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.13-22.44.35:102][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.689ms to complete.
+[2021.03.13-22.44.35:102][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.143
+[2021.03.13-22.44.35:119][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.165
+[2021.03.13-22.44.35:413][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.13-22.44.35:421][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.13-22.44.35:428][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.13-22.44.35:435][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.13-22.44.35:535][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0113 seconds. Added 3601 classes and 859 folders.
+[2021.03.13-22.44.35:550][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.03.13-22.44.35:560][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.13-22.44.35:560][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.13-22.44.35:560][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.13-22.44.35:560][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.03.13-22.44.35:565][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.13-22.44.35:565][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.13-22.44.35:565][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.13-22.44.35:565][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.03.13-22.44.35:567][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.03.13-22.44.35:567][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.13-22.44.35:567][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.03.13-22.44.35:567][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.03.13-22.44.35:568][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.13-22.44.35:568][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.13-22.44.35:568][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.13-22.44.35:568][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.03.13-22.44.35:570][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.13-22.44.35:570][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.13-22.44.35:570][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.13-22.44.35:570][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.03.13-22.44.35:571][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.13-22.44.35:572][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.13-22.44.35:572][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.13-22.44.35:572][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.03.13-22.44.35:573][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.13-22.44.35:573][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.13-22.44.35:573][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.13-22.44.35:573][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.03.13-22.44.35:574][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.13-22.44.35:574][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.13-22.44.35:574][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.13-22.44.35:574][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.03.13-22.44.35:576][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.13-22.44.35:576][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.13-22.44.35:576][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.13-22.44.35:576][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.03.13-22.44.35:577][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.13-22.44.35:577][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.13-22.44.35:577][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.13-22.44.35:577][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.03.13-22.44.35:578][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.13-22.44.35:578][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.13-22.44.35:578][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.13-22.44.35:578][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.03.13-22.44.35:580][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.13-22.44.35:580][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.13-22.44.35:580][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.13-22.44.35:580][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.03.13-22.44.35:582][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.13-22.44.35:582][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.13-22.44.35:582][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.13-22.44.35:582][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.03.13-22.44.35:584][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.13-22.44.35:584][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.13-22.44.35:584][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.13-22.44.35:584][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2021.03.13-22.44.35:585][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.13-22.44.35:585][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.13-22.44.35:585][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.13-22.44.35:585][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.03.13-22.44.35:586][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.13-22.44.35:586][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.13-22.44.35:586][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.13-22.44.35:586][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2021.03.13-22.44.35:587][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.13-22.44.35:587][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.13-22.44.35:587][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.13-22.44.35:587][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2021.03.13-22.44.35:589][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.13-22.44.35:589][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.13-22.44.35:589][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.13-22.44.35:589][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2021.03.13-22.44.35:590][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.13-22.44.35:590][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.13-22.44.35:590][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.13-22.44.35:590][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2021.03.13-22.44.35:592][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.13-22.44.35:592][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.13-22.44.35:592][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.13-22.44.35:592][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2021.03.13-22.44.35:594][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.13-22.44.35:594][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.13-22.44.35:594][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.13-22.44.35:594][  0]LogPakFile: OnPakFileMounted2Time == 0.000079
+[2021.03.13-22.44.35:595][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.13-22.44.35:595][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.13-22.44.35:595][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.13-22.44.35:595][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2021.03.13-22.44.35:597][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.03.13-22.44.35:597][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.13-22.44.35:597][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.03.13-22.44.35:597][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2021.03.13-22.44.35:599][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.13-22.44.35:599][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.13-22.44.35:599][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.13-22.44.35:599][  0]LogPakFile: OnPakFileMounted2Time == 0.000087
+[2021.03.13-22.44.35:600][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.13-22.44.35:600][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.13-22.44.35:600][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.13-22.44.35:600][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2021.03.13-22.44.35:601][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.13-22.44.35:601][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.13-22.44.35:601][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.13-22.44.35:601][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2021.03.13-22.44.35:714][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.13-22.44.35:721][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.03.13-22.44.35:830][  0]LogSlate: Took 0.000732 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.13-22.44.35:833][  0]LogSlate: Took 0.000746 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.13-22.44.35:852][  0]LogSlate: Took 0.010773 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.13-22.44.36:206][  0]LogRenderer: Reallocating scene render targets to support 964x432 Format 10 NumSamples 1 (Frame:1).
+[2021.03.13-22.44.38:186][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.13-22.44.38:186][  0]LogLoad: (Engine Initialization) Total time: 12.23 seconds
+[2021.03.13-22.44.38:186][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.13-22.44.38:186][  0]LogInit: First time updating LLM stats...
+[2021.03.13-22.44.38:246][  0]LogAssetRegistry: Asset discovery search completed in 7.8718 seconds
+[2021.03.13-22.44.38:249][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000528 seconds (updated 0 objects)
+[2021.03.13-22.44.38:304][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.13-22.44.38:938][  2]LogSlate: Took 0.011083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.13-22.44.44:205][ 81]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.13-22.44.44:237][ 81]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2021.03.13-22.44.44:475][ 81]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0023 seconds. Added 126 classes and 0 folders.
+[2021.03.13-22.44.46:537][ 81]LogSlate: Took 0.001104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.13-22.45.02:984][278]LogSlate: Window 'MainMenu' being destroyed
+[2021.03.13-22.45.03:006][278]LogSlate: Window 'MainMenu' being destroyed
+[2021.03.13-22.45.03:032][278]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-22.45.03:033][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-22.45.03:072][278]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-22.45.03:072][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-22.45.27:909][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2021.03.13-22.45.27:931][ 17]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2021.03.13-22.45.27:932][ 17]Cmd: MAP LOAD FILE="../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.13-22.45.27:932][ 17]LightingResults: New page: Lighting Build
+[2021.03.13-22.45.27:932][ 17]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.03.13-22.45.27:934][ 17]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-22.45.27:934][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-22.45.27:934][ 17]MapCheck: New page: Map Check
+[2021.03.13-22.45.27:934][ 17]LightingResults: New page: Lighting Build
+[2021.03.13-22.45.27:953][ 17]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.13-22.45.27:978][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2021.03.13-22.45.27:978][ 17]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.03.13-22.45.27:986][ 17]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.13-22.45.27:986][ 17]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.13-22.45.28:005][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.03.13-22.45.28:028][ 17]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.13-22.45.28:028][ 17]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.122ms to complete.
+[2021.03.13-22.45.28:028][ 17]LogFileHelpers: Loading map 'MainMenu' took 0.096
+[2021.03.13-22.45.32:364][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.03.13-22.45.32:392][141]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2021.03.13-22.45.32:393][141]Cmd: MAP LOAD FILE="../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.13-22.45.32:393][141]LightingResults: New page: Lighting Build
+[2021.03.13-22.45.32:393][141]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.03.13-22.45.32:393][141]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-22.45.32:393][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-22.45.32:393][141]MapCheck: New page: Map Check
+[2021.03.13-22.45.32:393][141]LightingResults: New page: Lighting Build
+[2021.03.13-22.45.32:412][141]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.13-22.45.32:415][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.03.13-22.45.32:418][141]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.03.13-22.45.32:419][141]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.13-22.45.32:420][141]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.13-22.45.32:439][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.03.13-22.45.32:458][141]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.13-22.45.32:458][141]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.124ms to complete.
+[2021.03.13-22.45.32:458][141]LogFileHelpers: Loading map 'MainMenu' took 0.065
+[2021.03.13-22.45.37:179][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.03.13-22.45.37:234][282]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2021.03.13-22.45.37:234][282]Cmd: MAP LOAD FILE="../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.13-22.45.37:234][282]LightingResults: New page: Lighting Build
+[2021.03.13-22.45.37:234][282]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.03.13-22.45.37:234][282]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-22.45.37:234][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-22.45.37:234][282]MapCheck: New page: Map Check
+[2021.03.13-22.45.37:234][282]LightingResults: New page: Lighting Build
+[2021.03.13-22.45.37:254][282]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.13-22.45.37:256][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.03.13-22.45.37:258][282]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.03.13-22.45.37:260][282]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.13-22.45.37:262][282]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.13-22.45.37:284][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.03.13-22.45.37:303][282]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.13-22.45.37:304][282]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.18ms to complete.
+[2021.03.13-22.45.37:304][282]LogFileHelpers: Loading map 'MainMenu' took 0.069
+[2021.03.13-22.45.47:001][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.03.13-22.45.47:026][568]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2021.03.13-22.45.47:026][568]Cmd: MAP LOAD FILE="../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.13-22.45.47:026][568]LightingResults: New page: Lighting Build
+[2021.03.13-22.45.47:027][568]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.03.13-22.45.47:027][568]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-22.45.47:027][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-22.45.47:027][568]MapCheck: New page: Map Check
+[2021.03.13-22.45.47:027][568]LightingResults: New page: Lighting Build
+[2021.03.13-22.45.47:046][568]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.13-22.45.47:048][568]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.03.13-22.45.47:052][568]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.03.13-22.45.47:053][568]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.13-22.45.47:054][568]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.13-22.45.47:073][568]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.03.13-22.45.47:094][568]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.13-22.45.47:094][568]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.127ms to complete.
+[2021.03.13-22.45.47:094][568]LogFileHelpers: Loading map 'MainMenu' took 0.068
+[2021.03.13-22.45.52:945][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.03.13-22.45.52:973][748]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2021.03.13-22.45.52:973][748]Cmd: MAP LOAD FILE="../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.13-22.45.52:973][748]LightingResults: New page: Lighting Build
+[2021.03.13-22.45.52:973][748]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.03.13-22.45.52:973][748]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-22.45.52:973][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-22.45.52:973][748]MapCheck: New page: Map Check
+[2021.03.13-22.45.52:973][748]LightingResults: New page: Lighting Build
+[2021.03.13-22.45.52:993][748]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.13-22.45.52:995][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.03.13-22.45.52:997][748]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.03.13-22.45.52:998][748]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.13-22.45.52:999][748]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.13-22.45.53:020][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.03.13-22.45.53:038][748]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.13-22.45.53:038][748]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.123ms to complete.
+[2021.03.13-22.45.53:038][748]LogFileHelpers: Loading map 'MainMenu' took 0.065
+[2021.03.13-22.46.22:089][116]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/Engine/World.h'
+[2021.03.13-22.46.48:266][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.03.13-22.46.48:292][ 87]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2021.03.13-22.46.48:292][ 87]Cmd: MAP LOAD FILE="../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.13-22.46.48:293][ 87]LightingResults: New page: Lighting Build
+[2021.03.13-22.46.48:293][ 87]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.03.13-22.46.48:293][ 87]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-22.46.48:293][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-22.46.48:293][ 87]MapCheck: New page: Map Check
+[2021.03.13-22.46.48:293][ 87]LightingResults: New page: Lighting Build
+[2021.03.13-22.46.48:313][ 87]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.13-22.46.48:318][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.03.13-22.46.48:320][ 87]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.03.13-22.46.48:321][ 87]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.13-22.46.48:323][ 87]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.13-22.46.48:345][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.03.13-22.46.48:365][ 87]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.13-22.46.48:365][ 87]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.134ms to complete.
+[2021.03.13-22.46.48:365][ 87]LogFileHelpers: Loading map 'MainMenu' took 0.073
+[2021.03.13-22.46.49:608][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.03.13-22.46.49:629][129]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainWorld.MainWorld
+[2021.03.13-22.46.49:629][129]Cmd: MAP LOAD FILE="../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Levels/MainWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.13-22.46.49:630][129]LightingResults: New page: Lighting Build
+[2021.03.13-22.46.49:630][129]LoadErrors: New page: Loading map: MainWorld.umap
+[2021.03.13-22.46.49:630][129]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-22.46.49:630][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-22.46.49:630][129]MapCheck: New page: Map Check
+[2021.03.13-22.46.49:630][129]LightingResults: New page: Lighting Build
+[2021.03.13-22.46.49:651][129]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.13-22.46.49:654][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.03.13-22.46.49:655][129]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainWorld'.
+[2021.03.13-22.46.49:656][129]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.13-22.46.49:657][129]LogAIModule: Creating AISystem for world MainWorld
+[2021.03.13-22.46.49:680][129]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.03.13-22.46.49:726][129]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.13-22.46.49:726][129]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.122ms to complete.
+[2021.03.13-22.46.49:726][129]LogFileHelpers: Loading map 'MainWorld' took 0.096
+[2021.03.13-22.46.50:651][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.03.13-22.46.50:679][164]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Test.Test
+[2021.03.13-22.46.50:679][164]Cmd: MAP LOAD FILE="../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Levels/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.13-22.46.50:679][164]LightingResults: New page: Lighting Build
+[2021.03.13-22.46.50:679][164]LoadErrors: New page: Loading map: Test.umap
+[2021.03.13-22.46.50:680][164]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-22.46.50:680][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-22.46.50:680][164]MapCheck: New page: Map Check
+[2021.03.13-22.46.50:680][164]LightingResults: New page: Lighting Build
+[2021.03.13-22.46.50:701][164]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.13-22.46.50:705][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.03.13-22.46.50:705][164]LogAudio: Display: Audio Device (ID: 1) registered with world 'Test'.
+[2021.03.13-22.46.50:706][164]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.13-22.46.50:706][164]LogAIModule: Creating AISystem for world Test
+[2021.03.13-22.46.50:729][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.03.13-22.46.50:749][164]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.13-22.46.50:750][164]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.139ms to complete.
+[2021.03.13-22.46.50:750][164]LogFileHelpers: Loading map 'Test' took 0.070
+[2021.03.13-22.46.51:814][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.03.13-22.46.51:839][202]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2021.03.13-22.46.51:840][202]Cmd: MAP LOAD FILE="../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.13-22.46.51:840][202]LightingResults: New page: Lighting Build
+[2021.03.13-22.46.51:840][202]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.03.13-22.46.51:840][202]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-22.46.51:840][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-22.46.51:840][202]MapCheck: New page: Map Check
+[2021.03.13-22.46.51:840][202]LightingResults: New page: Lighting Build
+[2021.03.13-22.46.51:860][202]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.13-22.46.51:864][202]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.03.13-22.46.51:864][202]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.03.13-22.46.51:866][202]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.13-22.46.51:866][202]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.13-22.46.51:886][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.03.13-22.46.51:906][202]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.13-22.46.51:906][202]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.132ms to complete.
+[2021.03.13-22.46.51:906][202]LogFileHelpers: Loading map 'MainMenu' took 0.066
+[2021.03.13-22.46.53:096][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.03.13-22.46.53:118][250]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2021.03.13-22.46.53:118][250]Cmd: MAP LOAD FILE="../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.13-22.46.53:118][250]LightingResults: New page: Lighting Build
+[2021.03.13-22.46.53:118][250]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.03.13-22.46.53:118][250]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-22.46.53:119][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-22.46.53:119][250]MapCheck: New page: Map Check
+[2021.03.13-22.46.53:119][250]LightingResults: New page: Lighting Build
+[2021.03.13-22.46.53:136][250]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.13-22.46.53:138][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.03.13-22.46.53:139][250]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.03.13-22.46.53:140][250]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.13-22.46.53:141][250]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.13-22.46.53:161][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.03.13-22.46.53:177][250]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.13-22.46.53:177][250]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
+[2021.03.13-22.46.53:178][250]LogFileHelpers: Loading map 'MainMenu' took 0.060
+[2021.03.13-22.48.49:155][427]LogContentBrowser: Attempting asset rename: MainMenu -> MainMenu
+[2021.03.13-22.49.04:195][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.03.13-22.49.04:223][680]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2021.03.13-22.49.04:223][680]Cmd: MAP LOAD FILE="../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.13-22.49.04:223][680]LightingResults: New page: Lighting Build
+[2021.03.13-22.49.04:223][680]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.03.13-22.49.04:223][680]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-22.49.04:223][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-22.49.04:223][680]MapCheck: New page: Map Check
+[2021.03.13-22.49.04:223][680]LightingResults: New page: Lighting Build
+[2021.03.13-22.49.04:239][680]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.13-22.49.04:241][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.03.13-22.49.04:243][680]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.03.13-22.49.04:244][680]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.13-22.49.04:245][680]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.13-22.49.04:263][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.03.13-22.49.04:279][680]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.13-22.49.04:279][680]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
+[2021.03.13-22.49.04:279][680]LogFileHelpers: Loading map 'MainMenu' took 0.057
+[2021.03.13-22.49.14:542][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.03.13-22.49.14:563][ 70]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2021.03.13-22.49.14:563][ 70]Cmd: MAP LOAD FILE="../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.13-22.49.14:563][ 70]LightingResults: New page: Lighting Build
+[2021.03.13-22.49.14:563][ 70]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.03.13-22.49.14:563][ 70]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-22.49.14:563][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-22.49.14:563][ 70]MapCheck: New page: Map Check
+[2021.03.13-22.49.14:563][ 70]LightingResults: New page: Lighting Build
+[2021.03.13-22.49.14:579][ 70]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.13-22.49.14:581][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.03.13-22.49.14:583][ 70]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.03.13-22.49.14:584][ 70]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.13-22.49.14:585][ 70]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.13-22.49.14:604][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.03.13-22.49.14:620][ 70]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.13-22.49.14:620][ 70]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.11ms to complete.
+[2021.03.13-22.49.14:621][ 70]LogFileHelpers: Loading map 'MainMenu' took 0.058
+[2021.03.13-22.49.42:375][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.03.13-22.49.42:404][656]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2021.03.13-22.49.42:404][656]Cmd: MAP LOAD FILE="../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.13-22.49.42:405][656]LightingResults: New page: Lighting Build
+[2021.03.13-22.49.42:405][656]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.03.13-22.49.42:405][656]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-22.49.42:405][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-22.49.42:405][656]MapCheck: New page: Map Check
+[2021.03.13-22.49.42:405][656]LightingResults: New page: Lighting Build
+[2021.03.13-22.49.42:425][656]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.13-22.49.42:428][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.03.13-22.49.42:431][656]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.03.13-22.49.42:432][656]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.13-22.49.42:433][656]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.13-22.49.42:457][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.03.13-22.49.42:477][656]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.13-22.49.42:477][656]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.164ms to complete.
+[2021.03.13-22.49.42:478][656]LogFileHelpers: Loading map 'MainMenu' took 0.073
+[2021.03.13-22.52.02:601][704]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2021.03.13-22.54.05:720][438]LogSlate: Window 'MainMenu' being destroyed
+[2021.03.13-22.54.05:774][438]LogSlate: Window 'MainMenu' being destroyed
+[2021.03.13-22.54.05:793][438]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-22.54.05:793][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-22.54.05:809][438]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-22.54.05:809][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-22.54.33:417][462]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.03.13-22.54.33:438][462]LogContentBrowser: Creating deferred item: NewFolder
+[2021.03.13-22.54.42:702][725]LogContentBrowser: Attempting asset rename: NewFolder -> Karni
+[2021.03.13-22.54.42:704][725]LogContentBrowser: End creating deferred item NewFolder
+[2021.03.13-22.54.57:682][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.03.13-22.54.57:712][322]LogSavePackage: Moving '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/MainMenu092BA37C47F8AE8FB21075B2C0C481F6.tmp' to '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Karni/Levels/MainMenu.umap'
+[2021.03.13-22.54.57:739][322]LogFileHelpers: Saving map 'MainMenu' took 0.091
+[2021.03.13-22.54.57:761][322]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.03.13-22.54.57:769][322]LogSavePackage: Moving '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/MainWorld9C6033D64B614AF081BDE383A0C80C59.tmp' to '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Karni/Levels/MainWorld.umap'
+[2021.03.13-22.54.57:770][322]LogFileHelpers: Saving map 'MainWorld' took 0.029
+[2021.03.13-22.54.57:786][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.03.13-22.54.57:794][322]LogSavePackage: Moving '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Test3580D2C943056E835C352DACDD75566D.tmp' to '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Karni/Levels/Test.umap'
+[2021.03.13-22.54.57:795][322]LogFileHelpers: Saving map 'Test' took 0.026
+[2021.03.13-22.54.57:894][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.03.13-22.54.57:912][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.03.13-22.54.57:929][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.03.13-22.54.57:955][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.03.13-22.54.57:973][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.03.13-22.54.58:043][322]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.13-22.54.58:043][322]LogContentValidation: Display: Validating World /Game/Karni/Levels/Test.Test
+[2021.03.13-22.54.58:044][322]LogContentValidation: Display: Validating World /Game/Karni/Levels/MainWorld.MainWorld
+[2021.03.13-22.54.58:044][322]LogContentValidation: Display: Validating World /Game/Karni/Levels/MainMenu.MainMenu
+[2021.03.13-22.55.01:148][469]LogMetaData: Removing '/Game/Karni/UI/MainMenu.MainMenu_C' ref from Metadata '/Game/UI/MainMenu.PackageMetaData'
+[2021.03.13-22.55.01:148][469]LogMetaData: Removing '/Game/Karni/UI/MainMenu.MainMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/MainMenu.PackageMetaData'
+[2021.03.13-22.55.01:148][469]LogMetaData: Removing '/Game/Karni/UI/MainMenu.MainMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/MainMenu.PackageMetaData'
+[2021.03.13-22.55.01:148][469]LogMetaData: Removing '/Game/Karni/UI/MainMenu.MainMenu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/MainMenu.PackageMetaData'
+[2021.03.13-22.55.01:148][469]LogMetaData: Removing '/Game/Karni/UI/MainMenu.SKEL_MainMenu_C:PreConstruct' ref from Metadata '/Game/UI/MainMenu.PackageMetaData'
+[2021.03.13-22.55.01:148][469]LogMetaData: Removing '/Game/Karni/UI/MainMenu.SKEL_MainMenu_C:Construct' ref from Metadata '/Game/UI/MainMenu.PackageMetaData'
+[2021.03.13-22.55.01:148][469]LogMetaData: Removing '/Game/Karni/UI/MainMenu.SKEL_MainMenu_C:Tick' ref from Metadata '/Game/UI/MainMenu.PackageMetaData'
+[2021.03.13-22.55.01:148][469]LogMetaData: Removing '/Game/Karni/UI/MainMenu.SKEL_MainMenu_C' ref from Metadata '/Game/UI/MainMenu.PackageMetaData'
+[2021.03.13-22.55.01:149][469]LogMetaData: Removing '/Game/Karni/UI/Options.Options_C' ref from Metadata '/Game/UI/Options.PackageMetaData'
+[2021.03.13-22.55.01:149][469]LogMetaData: Removing '/Game/Karni/UI/Options.Options:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/Options.PackageMetaData'
+[2021.03.13-22.55.01:149][469]LogMetaData: Removing '/Game/Karni/UI/Options.Options:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/Options.PackageMetaData'
+[2021.03.13-22.55.01:149][469]LogMetaData: Removing '/Game/Karni/UI/Options.Options:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/Options.PackageMetaData'
+[2021.03.13-22.55.01:149][469]LogMetaData: Removing '/Game/Karni/UI/Options.SKEL_Options_C:PreConstruct' ref from Metadata '/Game/UI/Options.PackageMetaData'
+[2021.03.13-22.55.01:149][469]LogMetaData: Removing '/Game/Karni/UI/Options.SKEL_Options_C:Construct' ref from Metadata '/Game/UI/Options.PackageMetaData'
+[2021.03.13-22.55.01:149][469]LogMetaData: Removing '/Game/Karni/UI/Options.SKEL_Options_C:Tick' ref from Metadata '/Game/UI/Options.PackageMetaData'
+[2021.03.13-22.55.01:149][469]LogMetaData: Removing '/Game/Karni/UI/Options.SKEL_Options_C' ref from Metadata '/Game/UI/Options.PackageMetaData'
+[2021.03.13-22.55.01:181][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Karni/UI/MainMenu" FILE="../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Karni/UI/MainMenu.uasset" SILENT=true
+[2021.03.13-22.55.01:205][469]LogSavePackage: Moving '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/MainMenuFDFBE22A4A90CCF2A8424EBFC672C5DF.tmp' to '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Karni/UI/MainMenu.uasset'
+[2021.03.13-22.55.01:206][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Karni/UI/Options" FILE="../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Karni/UI/Options.uasset" SILENT=true
+[2021.03.13-22.55.01:216][469]LogSavePackage: Moving '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Options08B24B2B479EADE61E6713B7AC66E1C3.tmp' to '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Karni/UI/Options.uasset'
+[2021.03.13-22.55.01:358][469]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.03.13-22.55.01:402][469]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.03.13-22.55.01:423][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.03.13-22.55.01:437][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.03.13-22.55.01:479][469]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.13-22.55.01:479][469]LogContentValidation: Display: Validating WidgetBlueprint /Game/Karni/UI/MainMenu.MainMenu
+[2021.03.13-22.55.01:480][469]LogContentValidation: Display: Validating WidgetBlueprint /Game/Karni/UI/Options.Options
+[2021.03.13-22.58.49:034][911]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Karni/UI/MainMenu.MainMenu
+[2021.03.13-23.00.49:603][ 75]LogSlate: Took 0.014791 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.03.13-23.03.31:970][515]LogEditorTransaction: Undo Wrap Widgets
+[2021.03.13-23.04.24:061][668]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.03.13-23.05.00:900][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.03.13-23.05.00:902][189]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Karni/Levels/MainMenu' took 0.034
+[2021.03.13-23.05.00:904][189]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Karni/UI/MainMenu] ([2] browsable assets)...
+[2021.03.13-23.05.00:904][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/Karni/UI/MainMenu]
+[2021.03.13-23.05.00:918][189]LogSavePackage: Moving '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/MainMenu_Auto14497FB064D29C7D12F1F43AADF675301.tmp' to '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Autosaves/Game/Karni/UI/MainMenu_Auto1.uasset'
+[2021.03.13-23.05.00:918][189]LogFileHelpers: Auto-saving content packages took 0.016
+[2021.03.13-23.15.01:113][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.03.13-23.15.01:115][531]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Karni/Levels/MainMenu' took 0.023
+[2021.03.13-23.15.01:115][531]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Karni/UI/MainMenu] ([2] browsable assets)...
+[2021.03.13-23.15.01:115][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/Karni/UI/MainMenu]
+[2021.03.13-23.15.01:130][531]LogSavePackage: Moving '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/MainMenu_Auto2EE2C92A542E8EB804A44688CCE5AD7DC.tmp' to '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Autosaves/Game/Karni/UI/MainMenu_Auto2.uasset'
+[2021.03.13-23.15.01:130][531]LogFileHelpers: Auto-saving content packages took 0.016
+[2021.03.13-23.25.01:796][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.03.13-23.25.01:798][925]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Karni/Levels/MainMenu' took 0.035
+[2021.03.13-23.25.01:799][925]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Karni/UI/MainMenu] ([2] browsable assets)...
+[2021.03.13-23.25.01:799][925]OBJ SavePackage: Finished generating thumbnails for package [/Game/Karni/UI/MainMenu]
+[2021.03.13-23.25.01:827][925]LogSavePackage: Moving '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/MainMenu_Auto3479A922E43DF2FB7FB8A9996D774323B.tmp' to '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Autosaves/Game/Karni/UI/MainMenu_Auto3.uasset'
+[2021.03.13-23.25.01:828][925]LogFileHelpers: Auto-saving content packages took 0.031
+[2021.03.13-23.27.25:860][444]BlueprintLog: New page: Compile MainMenu
+[2021.03.13-23.27.25:901][444]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.03.13-23.27.27:074][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Karni/UI/MainMenu" FILE="../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Karni/UI/MainMenu.uasset" SILENT=true
+[2021.03.13-23.27.27:098][474]LogSavePackage: Moving '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/MainMenu89358B514C95539676F6C9865DC2170B.tmp' to '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Karni/UI/MainMenu.uasset'
+[2021.03.13-23.27.27:183][474]AssetCheck: New page: Asset Save: MainMenu
+[2021.03.13-23.27.27:184][474]LogContentValidation: Display: Validating WidgetBlueprint /Game/Karni/UI/MainMenu.MainMenu
+[2021.03.13-23.27.42:471][659]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Karni/UI/Options.Options
+[2021.03.13-23.30.29:982][545]BlueprintLog: New page: Compile Options
+[2021.03.13-23.30.30:046][545]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2021.03.13-23.30.30:692][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Karni/UI/Options" FILE="../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Karni/UI/Options.uasset" SILENT=true
+[2021.03.13-23.30.30:713][560]LogSavePackage: Moving '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/OptionsEAC5E9FE49A7136998CE69BB13A5AE2F.tmp' to '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Karni/UI/Options.uasset'
+[2021.03.13-23.30.30:728][560]AssetCheck: New page: Asset Save: Options
+[2021.03.13-23.30.30:728][560]LogContentValidation: Display: Validating WidgetBlueprint /Game/Karni/UI/Options.Options
+[2021.03.13-23.30.35:262][685]BlueprintLog: New page: Compile MainMenu
+[2021.03.13-23.30.35:306][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.03.13-23.30.35:873][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Karni/UI/MainMenu" FILE="../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Karni/UI/MainMenu.uasset" SILENT=true
+[2021.03.13-23.30.35:897][701]LogSavePackage: Moving '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/MainMenu01866EED43F0576612D10C809934DDE9.tmp' to '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Karni/UI/MainMenu.uasset'
+[2021.03.13-23.30.35:908][701]AssetCheck: New page: Asset Save: MainMenu
+[2021.03.13-23.30.35:908][701]LogContentValidation: Display: Validating WidgetBlueprint /Game/Karni/UI/MainMenu.MainMenu
+[2021.03.13-23.31.58:567][489]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.03.13-23.31.58:580][489]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Karni/Levels/MainMenu.MainMenu
+[2021.03.13-23.31.58:581][489]Cmd: MAP LOAD FILE="../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Karni/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.13-23.31.58:582][489]LightingResults: New page: Lighting Build
+[2021.03.13-23.31.58:585][489]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.03.13-23.31.58:586][489]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-23.31.58:589][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-23.31.58:592][489]MapCheck: New page: Map Check
+[2021.03.13-23.31.58:592][489]LightingResults: New page: Lighting Build
+[2021.03.13-23.31.58:615][489]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.13-23.31.58:637][489]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.03.13-23.31.58:662][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.03.13-23.31.58:685][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.03.13-23.31.58:708][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.03.13-23.31.58:720][489]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.03.13-23.31.58:728][489]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.13-23.31.58:738][489]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.13-23.31.58:768][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.03.13-23.31.58:785][489]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.13-23.31.58:792][489]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 6.057ms to complete.
+[2021.03.13-23.31.58:792][489]LogFileHelpers: Loading map 'MainMenu' took 0.212
+[2021.03.13-23.32.16:763][914]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Karni/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2021.03.13-23.36.14:331][482]LogSlate: Took 0.009740 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.13-23.40.58:054][147]BlueprintLog: New page: Compile MainMenu
+[2021.03.13-23.40.58:122][147]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2021.03.13-23.40.59:397][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.03.13-23.40.59:431][183]LogSavePackage: Moving '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/MainMenu0E25289648762EE245CED7AAA8DC6BF4.tmp' to '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Karni/Levels/MainMenu.umap'
+[2021.03.13-23.40.59:451][183]LogFileHelpers: Saving map 'MainMenu' took 0.087
+[2021.03.13-23.40.59:465][183]AssetCheck: New page: Asset Save: MainMenu
+[2021.03.13-23.40.59:465][183]LogContentValidation: Display: Validating World /Game/Karni/Levels/MainMenu.MainMenu
+[2021.03.13-23.41.56:081][734]BlueprintLog: New page: Compile MainMenu
+[2021.03.13-23.41.56:155][734]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.03.13-23.41.56:695][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.03.13-23.41.56:723][749]LogSavePackage: Moving '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/MainMenu38EA4DE748E89A311293BC9246D9690A.tmp' to '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Karni/Levels/MainMenu.umap'
+[2021.03.13-23.41.56:740][749]LogFileHelpers: Saving map 'MainMenu' took 0.077
+[2021.03.13-23.41.56:753][749]AssetCheck: New page: Asset Save: MainMenu
+[2021.03.13-23.41.56:753][749]LogContentValidation: Display: Validating World /Game/Karni/Levels/MainMenu.MainMenu
+[2021.03.13-23.41.58:421][796]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-23.41.58:421][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-23.42.04:263][998]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.03.13-23.42.04:305][998]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Karni/Levels/MainWorld.MainWorld
+[2021.03.13-23.42.04:305][998]Cmd: MAP LOAD FILE="../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Karni/Levels/MainWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.13-23.42.04:305][998]LightingResults: New page: Lighting Build
+[2021.03.13-23.42.04:305][998]LoadErrors: New page: Loading map: MainWorld.umap
+[2021.03.13-23.42.04:307][998]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-23.42.04:307][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-23.42.04:307][998]MapCheck: New page: Map Check
+[2021.03.13-23.42.04:307][998]LightingResults: New page: Lighting Build
+[2021.03.13-23.42.04:329][998]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.13-23.42.04:332][998]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.03.13-23.42.04:332][998]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainWorld'.
+[2021.03.13-23.42.04:333][998]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.13-23.42.04:333][998]LogAIModule: Creating AISystem for world MainWorld
+[2021.03.13-23.42.04:358][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.03.13-23.42.04:375][998]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.13-23.42.04:375][998]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.119ms to complete.
+[2021.03.13-23.42.04:375][998]LogFileHelpers: Loading map 'MainWorld' took 0.069
+[2021.03.13-23.42.21:084][263]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Karni/Levels/MainWorld.MainWorld:PersistentLevel.MainWorld
+[2021.03.13-23.46.55:192][441]BlueprintLog: New page: Compile MainWorld
+[2021.03.13-23.46.55:242][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.03.13-23.46.56:130][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.03.13-23.46.56:146][470]LogSavePackage: Moving '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/MainWorld9EDCBE50465B75C42EAC0B828866BD41.tmp' to '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Karni/Levels/MainWorld.umap'
+[2021.03.13-23.46.56:163][470]LogFileHelpers: Saving map 'MainWorld' took 0.064
+[2021.03.13-23.46.56:176][470]AssetCheck: New page: Asset Save: MainWorld
+[2021.03.13-23.46.56:176][470]LogContentValidation: Display: Validating World /Game/Karni/Levels/MainWorld.MainWorld
+[2021.03.13-23.56.56:518][709]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.03.13-23.56.56:519][709]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Karni/Levels/MainWorld' took 0.030
+[2021.03.13-23.56.56:520][709]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Karni/UI/MainMenu] ([2] browsable assets)...
+[2021.03.13-23.56.56:520][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/Karni/UI/MainMenu]
+[2021.03.13-23.56.56:548][709]LogSavePackage: Moving '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/MainMenu_Auto4F113926B4E931A4D1E523495E976BE16.tmp' to '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/Autosaves/Game/Karni/UI/MainMenu_Auto4.uasset'
+[2021.03.13-23.56.56:549][709]LogFileHelpers: Auto-saving content packages took 0.030
+[2021.03.14-00.02.19:116][ 60]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.14-00.07.05:294][245]BlueprintLog: New page: Compile MainMenu
+[2021.03.14-00.07.05:349][245]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.03.14-00.07.06:049][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Karni/UI/MainMenu" FILE="../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Karni/UI/MainMenu.uasset" SILENT=true
+[2021.03.14-00.07.06:089][264]LogSavePackage: Moving '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Saved/MainMenu854CF8C84D189EE860CD9E8403391066.tmp' to '../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Karni/UI/MainMenu.uasset'
+[2021.03.14-00.07.06:111][264]AssetCheck: New page: Asset Save: MainMenu
+[2021.03.14-00.07.06:111][264]LogContentValidation: Display: Validating WidgetBlueprint /Game/Karni/UI/MainMenu.MainMenu
+[2021.03.14-00.07.32:170][462]LogSlate: Window 'MainWorld' being destroyed
+[2021.03.14-00.07.32:182][462]LogSlate: Window 'MainWorld' being destroyed
+[2021.03.14-00.07.32:215][462]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.03.14-00.07.32:216][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.14-00.07.32:243][462]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.03.14-00.07.32:243][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.14-00.07.32:402][462]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.03.14-00.07.32:402][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.14-00.07.32:415][462]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.03.14-00.07.32:415][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.14-00.07.32:546][462]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.03.14-00.07.32:546][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.14-00.07.42:544][622]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.03.14-00.07.42:608][622]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Karni/Levels/MainMenu.MainMenu
+[2021.03.14-00.07.42:609][622]Cmd: MAP LOAD FILE="../../../../../../Users/karni/OneDrive/Documents/GitHub/team-2dee/ProjectSploosh/Content/Karni/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.14-00.07.42:609][622]LightingResults: New page: Lighting Build
+[2021.03.14-00.07.42:611][622]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.03.14-00.07.42:612][622]LogWorld: UWorld::CleanupWorld for MainWorld, bSessionEnded=true, bCleanupResources=true
+[2021.03.14-00.07.42:613][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.14-00.07.42:614][622]MapCheck: New page: Map Check
+[2021.03.14-00.07.42:614][622]LightingResults: New page: Lighting Build
+[2021.03.14-00.07.42:634][622]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.14-00.07.42:642][622]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.03.14-00.07.42:643][622]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.03.14-00.07.42:653][622]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.14-00.07.42:653][622]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.14-00.07.42:678][622]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.03.14-00.07.42:698][622]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.14-00.07.42:698][622]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2021.03.14-00.07.42:698][622]LogFileHelpers: Loading map 'MainMenu' took 0.090
+[2021.03.14-00.07.57:112][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.14-00.07.57:115][872]PIE: New page: PIE session: MainMenu (Mar 13, 2021, 8:07:57 AM)
+[2021.03.14-00.07.57:147][872]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.14-00.07.57:154][872]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.03.14-00.07.57:156][872]LogPlayLevel: Creating play world package: /Game/Karni/Levels/UEDPIE_0_MainMenu
+[2021.03.14-00.07.57:160][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003789s)
+[2021.03.14-00.07.57:163][872]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.14-00.07.57:167][872]LogPlayLevel: PIE: World Init took: (0.006522s)
+[2021.03.14-00.07.57:168][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Karni/Levels/MainMenu.MainMenu to /Game/Karni/Levels/UEDPIE_0_MainMenu.MainMenu (0.011664s)
+[2021.03.14-00.07.57:185][872]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.03.14-00.07.57:198][872]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.03.14-00.07.57:200][872]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.14-00.07.57:200][872]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.14-00.07.57:200][872]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.14-00.07.57:200][872]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.14-00.07.57:200][872]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.14-00.07.57:200][872]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.14-00.07.57:200][872]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.14-00.07.57:201][872]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.14-00.07.57:205][872]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.14-00.07.57:205][872]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.14-00.07.57:218][872]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.14-00.07.57:218][872]LogAudioMixer: Display: 1: FrontRight
+[2021.03.14-00.07.57:303][872]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.03.14-00.07.57:310][872]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.14-00.07.57:310][872]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.14-00.07.57:311][872]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.14-00.07.57:320][872]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.14-00.07.57:320][872]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.14-00.07.57:321][872]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.14-00.07.57:335][872]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.14-00.07.57:335][872]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.14-00.07.57:335][872]LogInit: FAudioDevice initialized.
+[2021.03.14-00.07.57:335][872]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2021.03.14-00.07.57:402][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.14-00.07.57:414][872]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.03.14-00.07.57:418][872]LogWorld: Bringing World /Game/Karni/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.03.13-16.07.57
+[2021.03.14-00.07.57:422][872]LogWorld: Bringing up level for play took: 0.003846
+[2021.03.14-00.07.57:423][872]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.03.14-00.07.57:497][872]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0066 seconds. Added 20 classes and 0 folders.
+[2021.03.14-00.07.57:538][872]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.03.14-00.07.57:540][872]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.03.14-00.07.57:540][872]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.03.14-00.07.57:644][872]PIE: Server logged in
+[2021.03.14-00.07.57:645][872]PIE: Play in editor total start time 0.541 seconds.
+[2021.03.14-00.07.57:770][873]LogRenderer: Reallocating scene render targets to support 1024x576 Format 10 NumSamples 1 (Frame:1).
+[2021.03.14-00.08.21:046][112]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.03.14-00.10.07:893][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.14-00.10.07:897][ 13]LogWorld: BeginTearingDown for /Game/Karni/Levels/UEDPIE_0_MainMenu
+[2021.03.14-00.10.07:897][ 13]LogSlate: Window 'ProjectSploosh Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.03.14-00.10.07:943][ 13]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.14-00.10.07:948][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.14-00.10.07:972][ 13]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.14-00.10.07:981][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.14-00.10.08:008][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.14-00.10.08:010][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.14-00.10.08:076][ 13]LogUObjectHash: Compacting FUObjectHashTables data took  16.70ms
+[2021.03.14-00.10.08:245][ 14]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.03.14-00.10.40:519][139]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.14-00.10.40:519][139]PIE: New page: PIE session: MainMenu (Mar 13, 2021, 8:10:40 AM)
+[2021.03.14-00.10.40:519][139]LogPlayLevel: Creating play world package: /Game/Karni/Levels/UEDPIE_0_MainMenu
+[2021.03.14-00.10.40:520][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001086s)
+[2021.03.14-00.10.40:522][139]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.14-00.10.40:522][139]LogPlayLevel: PIE: World Init took: (0.001355s)
+[2021.03.14-00.10.40:522][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Karni/Levels/MainMenu.MainMenu to /Game/Karni/Levels/UEDPIE_0_MainMenu.MainMenu (0.002553s)
+[2021.03.14-00.10.40:546][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.03.14-00.10.40:549][139]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.03.14-00.10.40:549][139]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.14-00.10.40:549][139]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.14-00.10.40:549][139]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.14-00.10.40:549][139]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.14-00.10.40:549][139]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.14-00.10.40:549][139]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.14-00.10.40:549][139]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.14-00.10.40:549][139]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.14-00.10.40:549][139]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.14-00.10.40:549][139]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.14-00.10.40:552][139]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.14-00.10.40:552][139]LogAudioMixer: Display: 1: FrontRight
+[2021.03.14-00.10.40:630][139]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.03.14-00.10.40:632][139]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.14-00.10.40:632][139]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.14-00.10.40:632][139]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.14-00.10.40:632][139]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.14-00.10.40:632][139]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.14-00.10.40:632][139]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.14-00.10.40:652][139]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.14-00.10.40:652][139]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.14-00.10.40:652][139]LogInit: FAudioDevice initialized.
+[2021.03.14-00.10.40:652][139]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenu'.
+[2021.03.14-00.10.40:703][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.14-00.10.40:703][139]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.03.14-00.10.40:704][139]LogWorld: Bringing World /Game/Karni/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.03.13-16.10.40
+[2021.03.14-00.10.40:705][139]LogWorld: Bringing up level for play took: 0.000604
+[2021.03.14-00.10.40:705][139]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.03.14-00.10.40:710][139]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.03.14-00.10.40:710][139]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.03.14-00.10.40:710][139]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.03.14-00.10.40:711][139]PIE: Server logged in
+[2021.03.14-00.10.40:712][139]PIE: Play in editor total start time 0.193 seconds.
+[2021.03.14-00.10.40:797][140]LogRenderer: Reallocating scene render targets to support 1028x584 Format 10 NumSamples 1 (Frame:1).
+[2021.03.14-00.12.22:336][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.14-00.12.22:338][175]LogWorld: BeginTearingDown for /Game/Karni/Levels/UEDPIE_0_MainMenu
+[2021.03.14-00.12.22:338][175]LogSlate: Window 'ProjectSploosh Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.03.14-00.12.22:397][175]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.14-00.12.22:398][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.14-00.12.22:449][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.14-00.12.22:459][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.14-00.12.22:503][175]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.14-00.12.22:503][175]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.14-00.12.22:505][175]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.14-00.12.22:552][175]LogUObjectHash: Compacting FUObjectHashTables data took   7.36ms
+[2021.03.14-00.12.22:677][176]LogPlayLevel: Display: Destroying online subsystem :Context_12
