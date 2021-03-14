@@ -7,3 +7,4 @@ Karni Velumani - Programmer
 Gina Ha - Art 
 Darren Askins - Designer/Writer
 Kai Curry - Art
+Everette - Programmer
